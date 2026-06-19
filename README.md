@@ -67,7 +67,16 @@ float CCamera::EffectiveZoom() const
 }
 ```
 
-## 6. Build and test
+## 6. game/client/components/camera.h
+
+```cpp
+	float EffectiveZoom() const;
+```
+
+## 7. Build and test
+```bash
+cmake -Bbuild -GNinja && cmake --build build
+```
 
 ```
 lsd_toggle          # turn the effect on/off
