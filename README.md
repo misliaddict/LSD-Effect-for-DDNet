@@ -1,3 +1,19 @@
+
+ # 🍃 DDNet / Teeworlds LSD Screen Effect
+
+ **A simple LSD screen effect component with hue-cycling and screen wobble for DDNet clients.**
+<div align="center">
+  <a href="https://github.com/reiayanami0/LSD-Effect-for-DDNet">
+    <img src="https://img.shields.io/badge/For-Teeworlds-98d243?style=for-the-badge" alt="For Teeworlds">
+  </a>
+  
+  <br/>
+
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/Compatible%20with-DDNet-lightgrey?style=flat-square" alt="Compatible with DDNet">
+</div>
+
+# Implemention
 ## 1. Drop the folder in
 
 Copy this whole folder to:
