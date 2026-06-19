@@ -1,5 +1,5 @@
 
- # 🍃 DDNet / Teeworlds LSD Screen Effect
+ # 🍃 DDNet / Teeworlds LSD Effect
 
  **A simple LSD screen effect component with hue-cycling and screen wobble for DDNet clients.**
 <div align="center">
