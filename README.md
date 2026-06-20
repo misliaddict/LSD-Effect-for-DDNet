@@ -50,9 +50,7 @@ m_vpAll.push_back(&m_LsdEffect); // end of wherever &m_Camera etc. are pushed
 
 ## 5. game/client/components/camera.cpp 
 
-Find where the camera's current zoom value is turned into the actual 
-call for the world (search for `m_Zoom` near a
-`MapScreen` call in `CCamera::OnRender`).
+Find where the camera's current zoom value is (search for `m_Zoom` near a `MapScreen` call in `CCamera::OnRender`).
 
 ```cpp
 m_Zoom *= GameClient()->m_LsdEffect.ZoomModifier();
