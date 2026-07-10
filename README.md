@@ -55,7 +55,7 @@ Find where the camera's current zoom value is (search for `m_Zoom` near a `MapSc
 ```cpp
 m_Zoom *= GameClient()->m_LsdEffect.ZoomModifier();
 ```
-In 19.8, just below 
+In 19.8/19.9, just below 
 ```cpp
 m_WasSpectating = GameClient()->m_Snap.m_SpecInfo.m_Active;`
 ```
